@@ -6,3 +6,5 @@
 - Day 02: Dive
   - Part 1
   - Part 2
+- Day 03: Binary Diagnostic
+  - Part 1
